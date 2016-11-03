@@ -1,3 +1,7 @@
+**mozz** is the main 'live' directory of the website.
+
+The CMS _mozzarella.website_ uses is:
+
 sassolino
 =========
 

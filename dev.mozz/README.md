@@ -1,4 +1,6 @@
-_mozzarella.website_ uses:
+dev.mozz directory is for experiments with code. 
+
+The CMS _mozzarella.website_ uses is:
 
 sassolino
 =========
