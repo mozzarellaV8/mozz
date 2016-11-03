@@ -4,7 +4,7 @@
 
 This repository houses the code for the website.
 
-- [mozz](~/mozz) - the main homepage 'live' directory
-- [dev.mozz](~/dev.mozz) - experiments with code
-- [dat.mozz](~/dat.mozz) - kind of like a notepad with ideas
-- [cat.mozz](~/cat.mozz) - individual directories for books/titles
+- [mozz](mozz) - the main homepage 'live' directory
+- [dev.mozz](dev.mozz) - experiments with code
+- [dat.mozz](dat.mozz) - kind of like a notepad with ideas
+- [cat.mozz](cat.mozz) - individual directories for books/titles
