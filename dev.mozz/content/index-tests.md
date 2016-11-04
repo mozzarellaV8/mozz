@@ -18,4 +18,6 @@ mozz333 [The Sheerest Amount of Color](http://cat.mozzarella.website/mozz333), [
 
 mozz404 [Exploratory Data Analysis](http://cat.mozzarella.website/mEDA-01), [**$102.02**]()
 
+mozz406 [Calligraphy for Computers](http://cat.mozzarella.website/mEDA-02), [**$20**]()
+
 tabsCH1 [AnotherTabOfChrome](http://dat.mozzarella.website/AnotherTabOfChrome), [**$25**]()
