@@ -11,7 +11,17 @@
 						 
 ✎
 
-mozz115 [The Ways of White Folks](http://cat.mozzarella.website/mozz115), [**$1.39**]() • 5½" x 8½", 68 pages, saddle-stitched
+mozz115 [The Ways of White Folks](http://cat.mozzarella.website/mozz115), [**$1.39**]() • 5½" x 8½", 68 pages, saddle-stitched • 
+<button
+    class="snipcart-add-item"
+    data-item-id="2"
+    data-item-name="The Ways of White Folks"
+    data-item-price="1.39"
+    data-item-weight="20"
+    data-item-url="/"
+    data-item-description="Langston Hughes">
+        purchcase
+</button>
 
 ![The Ways of White Folks](http://pi.mozzarella.website/mozz115-LH-01.png)
 
