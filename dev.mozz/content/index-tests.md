@@ -178,6 +178,5 @@ tabsCH1 [AnotherTabOfChrome](http://dat.mozzarella.website/AnotherTabOfChrome) â
         tell me more
 </button>
 
-![tabsChrome](http:/pi.mozzarella.website/shop/tabsChrome-01-front.gif)
-
+![tabsChrome](~/mozzarella.website/pi.mozz/shop/tabsChrome-01-front.gif)
 </html>
