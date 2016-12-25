@@ -1,43 +1,64 @@
 body {
-    background: #2f69c6;
-    font-family: "Menlo", arial, sans-serif;
-    font-size: 14px;
+    background: #FFF;
+    font-family: 'Lora', serif;
+    font-size: 16px;
     line-height: 1.2em;
     margin: 0;
     padding-top: 0px;
     padding-left: 50px;
-    color: #FFF;
+    color: #000;
 }
 
 h1{
-    color: #FFF;
-    font-family: 'Arial Rounded MT Bold', sans-serif;
+    color: #000;
+    font-family: 'Lora', serif;
     font-size: 24px;
+    font-weight:bold;
+}
+
+h2{
+    color: #000;
+    font-family: 'Lora', serif;
+    font-size: 20px;
     font-weight:normal;
 }
 
 h4{
-    color: #FFF;
-    font-family: 'Menlo', sans-serif;
+    color: #000;
+    font-family: 'Lora', serif;
     font-size: 18px;
     font-weight:normal;
 }
 
+h6{
+    color: #000;
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    font-weight:normal;
+    -webkit-margin-before: 2.33em;
+    -webkit-margin-after: 0.33em;
+}
+
+pre{
+    color:#000;
+    font-family: 'Lora', serif;
+    font-size: 12px;
+    font-weight:normal;
+}
+
 blockquote{
-    color: #FFF;
-    font-family: Menlo, 'Arial Rounded MT Bold', sans-serif;
+    color: #000;
+    font-family: 'Lora', serif;
     font-size: 20px;
     font-weight:normal;
 }
 
 p {
- color: #FFF;
- font-family: Menlo, 'Arial Rounded MT Bold', sans-serif;   
  max-width: 800px;   
 }
 
 a {
-    color: #ffff00;
+    color: #0000ff;
     text-decoration: none;
     font-weight: normal;
 }
@@ -62,14 +83,14 @@ img, video, audio, iframe {
 }
 
 #main_container {
-    margin: 100px auto;
-    margin-left: 120px;
-    width: 800px;
+    margin: 50px auto;
+    margin-left: 50px;
+    width: 900px;
     max-width: 90%;
 }
 
 .item_container {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
