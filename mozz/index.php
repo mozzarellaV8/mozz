@@ -11,15 +11,29 @@
 // ANY WARRANTY; without even the implied warranty of  MERCHANTABILITY or
 // FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for
 // more details.
-//          LOOK AT LINES 65+108 FOR LINKBACK TO INDEX
+//
 // You should have received a copy of the GNU General Public License along with
 // this program.  If not, see <http://www.gnu.org/licenses/>.
+//
+//          Lines ~65 and ~108 for linkback to index page
+//          Lines 28-33 opengraph protocol requirements
+//          Lines 34-36
+//
 include 'parsedown.php'; // Used to parse markdown
 echo '<!DOCTYPE html>';
 echo '<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">';
 echo '<head>';
 echo '<title>mozzarella.website</title>'; // Site title
 echo '<meta http-equiv="Content-Type" content="text/html;charset=utf-8">';
+echo '<meta property="og:title" content="mozzarella.website" />';
+echo '<meta property="og:type" content="website" />';
+echo '<meta property="og:url" content="http://mozzarella.website" />';
+echo '<meta property="og:image" content="http://mozzarella.website/content/info/mozzpaper.png" />';
+echo '<meta property="og:description" content="publishing independently" />';
+echo '<meta property="fb:admins" content="mozz"/>';
+echo '<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>';
+echo '<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="YOUR_API_KEY" id="snipcart"></script>';
+echo '<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" /></head>';
 echo '<link rel="stylesheet" type="text/css" href="style.css">';
 echo '</head>';
 echo '<body>';

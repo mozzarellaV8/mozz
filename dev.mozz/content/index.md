@@ -1,17 +1,174 @@
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="YOUR_API_KEY" id="snipcart"></script>
+<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
 # ❏ mozzare[lla](http://pi.mozzarella.website).catalog ❏ 
 						 
 ✎
 
-mozz115 [The Ways of White Folks](http://cat.mozzarella.website/mozz115), [$1.39]()
+- <sub>mozz115</sub>[**The Ways of White Folks**](http://cat.mozzarella.website/mozz115) 
+<button
+    class="snipcart-add-item"
+    data-item-id="2"
+    data-item-name="The Ways of White Folks"
+    data-item-price="1.39"
+    data-item-weight="20"
+    data-item-url="/"
+    data-item-description="Langston Hughes">
+        $1.39 • add to cart
+</button> • [_more info_](http://cat.mozzarella.website/mozz115)
 
-mozz116 [Burning Chrome](http://cat.mozzarella.website/mozz116), [$1.37]()
 
-mozz117 [Too Much World](http://cat.mozzarella.website/mozz117), [$3.14]()
+![The Ways of White Folks](http://pi.mozzarella.website/shop/mozz115-01.png)
 
-mozz332 [Hack](http://cat.mozzarella.website/mozz332)d[own](http://pi.mozzarella.website/HACKDOWN.BIBLIO.ADDENDUM), [$4]()
+- <sub>mozz116</sub> [**Burning Chrome**](http://cat.mozzarella.website/mozz116) • [$1.37]() • 28 pages • 5½" x 8½" • saddle-stitched • 
+<button
+    class="snipcart-add-item"
+    data-item-id="2"
+    data-item-name="Burning Chrome"
+    data-item-price="1.37"
+    data-item-weight="20"
+    data-item-url="/"
+    data-item-description="William Gibson">
+        add to cart
+</button>
+<button
+    class="snipcart-add-item"
+    data-item-id="2"
+    data-item-name="Burning Chrome"
+    data-item-price="1.37"
+    data-item-weight="20"
+    data-item-url="/"
+    data-item-description="William Gibson">
+        more info
+</button> 
 
-mozz333 [The Sheerest Amount of Color](http://cat.mozzarella.website/mozz333), [$8]()
+- <sub>mozz117</sub> [**Too Much World**](http://cat.mozzarella.website/mozz117) • [$3.14]()  • 12 pages • 5½" x 8½" • saddle-stitched •
+<button
+    class="snipcart-add-item"
+    data-item-id="2"
+    data-item-name="Too Much World"
+    data-item-price="3.14"
+    data-item-weight="20"
+    data-item-url="/"
+    data-item-description="Hito Steyerl">
+        buy it man
+</button>
+<button
+    class="snipcart-add-item"
+    data-item-id="2"
+    data-item-name="Too Much World"
+    data-item-price="3.14"
+    data-item-weight="20"
+    data-item-url="/"
+    data-item-description="Hito Steyerl">
+        tell me more
+</button>
 
-mozz404 [Exploratory Data Analysis](http://cat.mozzarella.website/mEDA-01), [$102.02]()
+- <sub>mozz118</sub> [**Printed Web 03**]() • [$3.87]() •  310 pages • 5½" x 8½" • _hex-bolt binding_ •
+<button
+    class="snipcart-add-item"
+    data-item-id="2"
+    data-item-name="Printed Web 03"
+    data-item-price="3.14"
+    data-item-weight="20"
+    data-item-url="/"
+    data-item-description="Paul Soullelis">
+        add to cart
+</button>
+<button
+    class="snipcart-add-item"
+    data-item-id="2"
+    data-item-name="Printed Web 03"
+    data-item-price="3.14"
+    data-item-weight="20"
+    data-item-url="/"
+    data-item-description="Paul Soullelis">
+        is it really so strange?
+</button>
 
-tabsCH1 [AnotherTabOfChrome](http://dat.mozzarella.website/AnotherTabOfChrome), [$25]()
+
+- <sub>mozz120</sub> [**How to Disappear in America (64% edition)**]() • ([_market price_](https://www.amazon.com/gp/product/0981546811/ref=pd_sbs_14_1?ie=UTF8&pd_rd_i=0981546811&pd_rd_r=7AFZ50C9WZN3HJSAF0RZ&pd_rd_w=PBkKJ&pd_rd_wg=eA5ZY&psc=1&refRID=7AFZ50C9WZN3HJSAF0RZ) x $0.64) • 78 pages • 5½" x 8½" • perfect bound
+
+- <sub>mozz332</sub> [**Hackdown**](http://cat.mozzarella.website/mozz332) • [$4](http://pi.mozzarella.website/mozz333-01.png) • 5½" x 8½" • 28 pages • saddle-stitched • [PDF version](http://pi.mozzarella.website/HACKDOWN.BIBLIO.ADDENDUM) (free)
+
+- <sub>mozz33</sub> [**The Sheerest Amount of Color**](http://cat.mozzarella.website/mozz333) • [$8]() • 78 pages • 5½" x 8½" • _saddle-stiched_ • **$8** •
+<button
+    class="snipcart-add-item"
+    data-item-id="2"
+    data-item-name="Sheerest Amount of Color"
+    data-item-price="8.00"
+    data-item-weight="20"
+    data-item-url="http://cat.mozzarella.website/mozz333"
+    data-item-description="PT Cruiser">
+        more info
+</button>
+<button
+    class="snipcart-add-item"
+    data-item-id="2"
+    data-item-name="Sheerest Amount of Color"
+    data-item-price="8.00"
+    data-item-weight="20"
+    data-item-url="http://cat.mozzarella.website/mozz333"
+    data-item-description="PT Cruiser">
+        buy now
+</button>
+
+![](http://pi.mozzarella.website/shop/mozz333-01g-600.png)
+
+- <sub>mozz404</sub> [**Exploratory Data Analysis**](http://cat.mozzarella.website/mEDA-01) •  [**$102.02**]() • 5½" x 8½" • 586 pages • _hex-bolt binding_
+
+- <sub>mozz406</sub> [**Calligraphy for Computers**](http://cat.mozzarella.website/mEDA-02) •  [**$14**]() • 304 pages • 8½" x 11" • _machine screwed_
+
+- <sub>mozz408</sub> [**Silk Road Img Scrape**](http://cat.mozzarella.website/mozz408) _(Agora 2014.01.01)_ •  [**$14**]() • 128 pages • 5½" x 8½"• _hex-bolt binding_ • 
+<button
+    class="snipcart-add-item"
+    data-item-id="2"
+    data-item-name="SilkRoadImgScrape"
+    data-item-price="8.00"
+    data-item-weight="20"
+    data-item-url="http://cat.mozzarella.website/mozz408"
+    data-item-description="mozz">
+        add to cart
+</button>
+<button
+    class="snipcart-add-item"
+    data-item-id="2"
+    data-item-name="SilkRoadImgScrape"
+    data-item-price="8.00"
+    data-item-weight="20"
+    data-item-url="http://cat.mozzarella.website/mozz408"
+    data-item-description="mozz">
+        are you sure?
+</button>
+
+- <sub>tabsCH1</sub> [**AnotherTabOfChrome**](http://dat.mozzarella.website/AnotherTabOfChrome) • [**$25**]() • 8½" x 11" • 128 pages • coil-bound •
+<button
+    class="snipcart-add-item"
+    data-item-id="2"
+    data-item-name="anotherTabOfChrome"
+    data-item-price="8.00"
+    data-item-weight="20"
+    data-item-url="http://cat.mozzarella.website/tabsCH1"
+    data-item-description="mozz">
+        add to cart
+</button>
+<button
+    class="snipcart-add-item"
+    data-item-id="2"
+    data-item-name="anotherTabOfChrome"
+    data-item-price="8.00"
+    data-item-weight="20"
+    data-item-url="http://cat.mozzarella.website/tabsCH1"
+    data-item-description="mozz">
+        tell me more
+</button>
+
+![tabsChrome](http://pi.mozzarella.website/shop/tabsCH1-02-front.gif)
+
+</body>
+</html>
