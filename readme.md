@@ -63,25 +63,25 @@ All profit beyond cost-of-production (~$9.02) will be donated to datacarpentry.o
 
 ![](pi.mozz/shop/tabsChrome-01-front.gif)
 
-**Another Tab of Chrome**
 featuring work by the artists:
 
-Clara Chapin
-Vaniel Do
-MacGregor Harp
-Lukas Geronimas
-Dispersed Holdings
-Charles Perry
-Andrew Steinmetz
-Joshua Caleb Weibley
-N. Weltyk
+- Clara Chapin
+- Vaniel Do 
+- MacGregor Harp
+- Lukas Geronimas
+- Dispersed Holdings
+- Charles Perry
+- Andrew Steinmetz
+- Joshua Caleb Weibley
+- N. Weltyk
 
 This book was publicated on the occasion of the 2016 Detroit Art Book Fair. 
 mozzarella.website reached out to these artists and asked they create something on the broad theme of 'language', or not. Much of the work is great and Lukas's friend at the bar said it's like a 'group show in a book'. 
 
 **** FAQs **** 
 
-What does the title refer to?
+_What does the title refer to?_
+
 [spoiler alert] William Gibson wrote a short story called Burning Chrome back in 1982. Always loved that title. Chrome in this story is a shadowy criminal who handles finances for various organized crime groups. The story itself is told from the perspective of two freelance hackers who infiltrate Chrome's system and empty his bank accounts...to impress a girl, who ends up taking other money from Chrome to get cybernetic eye implants and move to Hollywood. She had her own life to live.
 
 Chrome is also Google's web browser product. Of course one of Chrome's features is the Tab graphical user interface, allowing multiple panels or documents to be open simultaneously in one window.
