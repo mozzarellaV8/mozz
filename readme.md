@@ -14,11 +14,13 @@ We participate in independent book fairs as our primary outlet. Instead of being
 
 - [Bushwick Art Book Fair](https://blondeartbooks.com/2016/06/09/babz-fair-2016-bushwick-art-book-zine-fair/) organized by Sonel Breslav. 
 - [Detroit Art Book Fair](http://www.dittoditto.org/detroit-art-book-fair/) organized by Maia Asshaq
-- [Book Locker](http://booklocker.us) - organized by Gerardo Madera and Nicholas Weltyk.
+- [Book Locker](http://booklocker.us) - organized by Gerardo Madera and Nicholas Weltyk
 
-# Books Booklets Bootlegs
+# Books Booklets & Bootlegs
 
-# _The Sheerest Amount of Color_
+Below are some examples of things we do.
+
+## _The Sheerest Amount of Color_
 ![PT Cruiser](pi.mozz/shop/mozz333-01.jpg)
 
 [**The Sheerest Amount of Color _(The Collected Amazon Reviews)_**](http://www.ebay.com/itm/The-Sheerest-Amount-of-Color-short-stories-by-PT-Cruiser-First-Edition-2016/152367960179) by PT Cruiser, edited by Charles W. Perov. 
@@ -36,7 +38,7 @@ _"This is a more substantial feeling grill brush than ones we've owned in the pa
 - saddle-stitch binding
 - first edition
 
-# _Exploratory Data Analysis_
+## _Exploratory Data Analysis_
 ![EDA-01](pi.mozz/shop/mozz404-EDA-01.jpg)
 
 Here is an unauthorized and some might say debauched reproduction of seminal John Tukey work **Exploratory Data Analysis**. 
@@ -57,7 +59,7 @@ All profit beyond cost-of-production (~$9.02) will be donated to datacarpentry.o
 - un-authorized reproduction in an open edition
 - difficult to read center pages
 
-# _Another Tab of Chrome_
+## _Another Tab of Chrome_
 
 ![](pi.mozz/shop/tabsChrome-01-front.gif)
 
