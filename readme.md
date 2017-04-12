@@ -1,6 +1,6 @@
 # mozzarella
 
-![bedstuy-fly](http://pi.mozzarella.website/assets/hhandymozz-V2-12b.pdf)
+![bedstuy-fly](pi.mozz/assets/handymozz-V2-12b.jpg)
 
 [mozzarella.website](http://mozzarella.website) is an independent publishing endeavor, established January 2016 in New York following the purchase of a Brother HL-L2340DW Monochrome Laser Printer. 
 
