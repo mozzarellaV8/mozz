@@ -16,7 +16,7 @@ We participate in independent book fairs as our primary outlet. Instead of being
 - [Detroit Art Book Fair](http://www.dittoditto.org/detroit-art-book-fair/) organized by Maia Asshaq
 - [Book Locker](http://booklocker.us) - organized by Gerardo Madera and Nicholas Weltyk
 
-# Books Booklets & Bootlegs
+# Books, Booklets, & Bootlegs
 
 Below are some examples of things we do.
 
@@ -97,11 +97,3 @@ But when I thought of the word 'Tab', I had lysergic acid in mind more than Goog
 - inkjet printed covers
 
 design/print/edit by mozzarella.website 2016
-
-
-## Directories
-
-- [mozz](mozz) - the main homepage 'live' directory
-- [dev.mozz](dev.mozz) - experiments with code
-- [dat.mozz](dat.mozz) - kind of like a notepad with ideas
-- [cat.mozz](cat.mozz) - individual directories for books/titles˝
