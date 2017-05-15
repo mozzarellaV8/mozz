@@ -29,15 +29,14 @@ Here is an ongoing inventory of equipment we use to produce books.
 
 | process | product                                  | price per page  |
 | ------- | -----------------------------------------| --------------- |       
-| laser printing  | brother hl-2340d monochrome laser printer | 0.01 |
-| laser printing  | brother hl-8350cdw color laser printer | 0.10 |
-| inkjet printing | epson 3880 K3 inkjet printer | 0.64 |
+| laser printing  | Brother HL-2340DW monochrome laser printer | 0.01 |
+| laser printing  | Brother HL-8350CDW color laser printer | 0.10 |
+| inkjet printing | Epson 3880 K3 inkjet printer | 0.64 |
 | coil binding   | TruBind S-20A coil binding machine |
 | comb binding   | comb binding machine of unknown origin |
 | perfect binding | Thermobind TB550 |
 | saddle binding | Swingline long-reach stapler |
 | misc binding   | Lineco pH neutral archival glue | 
-| misc binding   | generic medium A-clamps |  
-| trimming | industrial stack paper cutter (thanks Mysterious Bookshop)| 
-| trimming | Ryobi battery powered circular saw |     
-| trimming | Dremel 3000 rotary tool |     
+| trimming | industrial stack paper cutter (thanks, Mysterious Bookshop)| 
+| trimming | Ryobi cordless circular saw |     
+| trimming | Dremel 3000 rotary tool | 
