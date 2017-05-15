@@ -1,6 +1,6 @@
 # Work in Progress
 
-Here's a table of work in progress for [BABZ 2017](http://blondeartbooks.com), arranged alphabetically by author or organization. Some may happen; others may not. As George Carlin once said, **_"Only time will tell."_**
+Here's a table of work in progress for [BABZ 2017](http://blondeartbooks.com), arranged alphabetically by author or organization. Some may happen; others may not. Things may end up on the table that aren't listed here. As George Carlin once said, **_"Only time will tell."_**
 
 | author                          | title                               | specs                             |   production cost|
 | ------------------------------- | ------------------------------------| --------------------------------- | -----------------|
