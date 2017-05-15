@@ -42,14 +42,14 @@ As George Carlin once said, **_"Only time will tell."_**
 ![How To Thermal Bind](pictures/how-to-thermal-bind-in-america.png)
 **_How to Thermal Bind in America_**
 
-**How to Share a Machine for Healing**
+_**How to Share a Machine for Healing**_
 ![How to Share a Machine for Healing](pictures/machine-for-healing.png)
 
 ![wikisketch](pictures/wikisketch.png)
-**wiki-header sketchbook**
+_**wiki-header sketchbook**_
 
 ![branding-with-chat](pictures/brand-patch.png)
-**branding randomly (back-patch)**
+_**branding randomly (back-patch)**_
 
 
 # Equipment Inventory
