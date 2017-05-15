@@ -22,7 +22,7 @@ Here's a table of work in progress for [BABZ 2017](http://blondeartbooks.com), a
 | Alanna Reeves & Niki Asfar | HUE (magazine)                      | TBD                               |   TBD            |
 | Jackson Verges | TBD                                 | TBD                               |   TBD            |[BABZ 2017](http://blondeartbooks.com/)
 
-# Equimpent Inventory
+# Equipment Inventory
 
 
 Here is an ongoing inventory of equipment we use to produce books. 
