@@ -1,4 +1,16 @@
+# BABZ 2017
+
+**_mozz_** is excited to participate in [BABZ 2017](http://blondeartbooks.com), organized by Blonde Art Books and taking place at [Knockdown Center](http://knockdown.center), June 2-4, 2017. Here is where we're figuring it out.
+
+- [Work in Progress](#work-in-progress)
+- [Work in Progress Illustrated](#work-in-progress-illustrated)
+- [Equipment Inventory](#equipment-inventory)
+
 # Work in Progress
+
+![branding-sketch-2-3](pictures/mozz-tex-V0-23.jpg)
+
+Above is a sketch in progress. What if companies open-sourced the full process of design production? I suppose that would violate a non-disclosure agreement, or maybe worse hurt the brand in some way. Regardless,
 
 Here's a table of work in progress for [BABZ 2017](http://blondeartbooks.com), arranged alphabetically by author or organization. Some may happen; others may not. Things may end up on the table that aren't listed here. As George Carlin once said, **_"Only time will tell."_**
 
@@ -15,17 +27,35 @@ Here's a table of work in progress for [BABZ 2017](http://blondeartbooks.com), a
 | mozz + Co-Ed Editions | Restaurator                         | TBD                               |   TBD            |
 | mozz | Another Tab of Chrome               | 8.5" x 11", 132pp, coil           |   however much   |
 | mozz | Irresistible                        | 8 fluid ounces                    |   TBD            |
-| mozz | WikiSketch                          | 8.5" x 11", ~64pp, coil           |   3.14           |
+| mozz | Wiki Sketch                         | 8.5" x 11", ~64pp, coil           |   3.14           |
 | C.W. Perov | The Sheerest Amount of Color        | 5.5" x 8.5", 64pp, saddle-stitch  |   however much   |
 | C.W. Perov | The Hero with One Face              | TBD                               |   TBD            |
 | Seth Price | How to Disappear in America         | 4.25"x5.5", 108pp, perfect        |   0.34           |
 | Alanna Reeves & Niki Asfar | HUE (magazine)                      | TBD                               |   TBD            |
 | Jackson Verges | TBD                                 | TBD                               |   TBD            |[BABZ 2017](http://blondeartbooks.com/)
 
+# Work in Progress Illustrated
+
+
+![How To Thermal Bind](pictures/how-to-thermal-bind-in-america.png)
+**_How to Thermal Bind in America_**
+
+**How to Share a Machine for Healing**
+![How to Share a Machine for Healing](pictures/machine-for-healing.png)
+
+![wikisketch](pictures/wikisketch.png)
+**wiki-header sketchbook**
+
+
+
+
+
+
 # Equipment Inventory
 
+![branding-sketch-06](pictures/mozz-tex-V0-5.jpg)
 
-Here is an ongoing inventory of equipment we use to produce books. 
+Here is an ongoing inventory of equipment we use to produce books. Above is a sketch.
 
 | process | product                                  | price per page  |
 | ------- | -----------------------------------------| --------------- |       
