@@ -46,16 +46,17 @@ Here's a table of work in progress for [BABZ 2017](http://blondeartbooks.com), a
 ![wikisketch](pictures/wikisketch.png)
 **wiki-header sketchbook**
 
-
-
-
+![branding-with-chat](pictures/brand-patch.png)
+**branding randomly (back-patch)**
 
 
 # Equipment Inventory
 
 ![branding-sketch-06](pictures/mozz-tex-V0-5.jpg)
 
-Here is an ongoing inventory of equipment we use to produce books. Above is a sketch.
+Here is an ongoing inventory of equipment we use to produce books. 
+
+Above is a sketch for branding or an imaginary magazine.
 
 | process | product                                  | price per page  |
 | ------- | -----------------------------------------| --------------- |       
