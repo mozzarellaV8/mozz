@@ -1,6 +1,6 @@
 ![bedstuy-fly](pi.mozz/assets/handymozz-V2-12b.jpg)
 
-# [work-in-progress](babz-2017) now
+# work-in-progress [now](babz-2017)
 ### [BABZ 2017](http://blondeartbooks.com) June 2nd-4th, 2017 @ [Knockdown Center](http://knockdown.center), Queens NYC
 
 **_mozz_** is really excited to participate in BABZ (formerly Bushwick Art Book Fair) again this year. Curious what we're working on for it? **[Poke around in here.](babz-2017)** 😇
