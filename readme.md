@@ -1,6 +1,6 @@
 ![bedstuy-fly](pi.mozz/assets/handymozz-V2-12b.jpg)
 
-# work-in-progress [now](babz-2017)
+# current [*work-in-progress*](babz-2017) 
 ### [BABZ 2017](http://blondeartbooks.com) June 2nd-4th, 2017 @ [Knockdown Center](http://knockdown.center), Queens NYC
 
 **_mozz_** is really excited to participate in BABZ (formerly Bushwick Art Book Fair) again this year. Curious what we're working on for it? **[Poke around in here.](babz-2017)** 😇
@@ -12,7 +12,7 @@
 
 Since being established, **_mozzarella_** has participated in the [Bushwick Art Book Fair](https://blondeartbooks.com/2016/06/09/babz-fair-2016-bushwick-art-book-zine-fair/),  [Detroit Art Book Fair](http://www.dittoditto.org/detroit-art-book-fair/), [Book Locker](http://booklocker.us)...and expanded to include color laser printing.
 
-This repository houses the code for the website. The CMS currently in use is [sassolino](http://www.pwr-stud.io/sassolino) by [PWR Studio](http://www.pwr-stud.io).
+
 
 # Book Fairs
 
