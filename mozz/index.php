@@ -35,6 +35,12 @@ echo '<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min
 echo '<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="YOUR_API_KEY" id="snipcart"></script>';
 echo '<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" /></head>';
 echo '<link rel="stylesheet" type="text/css" href="style.css">';
+echo '<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">'; // favicon
+echo '<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">'; // favicon
+echo '<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">'; // favicon
+echo '<link rel="manifest" href="/manifest.json">'; // favicon
+echo '<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">'; // favicon
+echo '<meta name="theme-color" content="#ffffff">'; // favicon
 echo '</head>';
 echo '<body>';
 $base = $_GET['dir']; // Get the name of the subdirectory
