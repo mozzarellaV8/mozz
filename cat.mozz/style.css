@@ -1,35 +1,64 @@
 body {
-    background: #2f69c6;
-    font-family: "Gill Sans", "Menlo", sans-serif;
-    font-size: 14px;
+    background: #FFF;
+    font-family: serif, sans-serif;
+    font-size: 16px;
     line-height: 1.2em;
     margin: 0;
     padding-top: 0px;
     padding-left: 50px;
-    color: #FFF;
+    color: #000;
 }
 
 h1{
-    color: #FFF;
-    font-family: 'Arial Rounded MT Bold', Menlo, 'Gill Sans', system;
+    color: #000;
+    font-family: serif, sans-serif;
     font-size: 24px;
+    font-weight:bold;
+}
+
+h2{
+    color: #000;
+    font-family: serif, sans-serif;
+    font-size: 20px;
     font-weight:normal;
 }
 
 h4{
-    color: #FFF;
-    font-family: 'Times New Roman', Menlo, 'Gill Sans', system;
+    color: #000;
+    font-family: serif, sans-serif;
     font-size: 18px;
     font-weight:normal;
 }
 
+h6{
+    color: #000;
+    font-family: serif, sans-serif;
+    font-size: 18px;
+    font-weight:normal;
+    -webkit-margin-before: 2.33em;
+    -webkit-margin-after: 0.33em;
+}
+
+pre{
+    color:#000;
+    font-family: 'Times New Roman', serif;
+    font-size: 12px;
+    font-weight:normal;
+}
+
+blockquote{
+    color: #000;
+    font-family: serif, sans-serif;
+    font-size: 20px;
+    font-weight:normal;
+}
+
 p {
- color: #FFF;   
  max-width: 800px;   
 }
 
 a {
-    color: #ffff00;
+    color: #0000ff;
     text-decoration: none;
     font-weight: normal;
 }
