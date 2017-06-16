@@ -16,11 +16,11 @@ mozz332  [Hackdown](http://cat.mozzarella.website/mozz332), [_$4.99_](https://s
 
 mozz333 [The Sheerest Amount of Color](http://cat.mozzarella.website/mozz333),  [_$7.99_](https://squareup.com/store/mozzarella/item/the-sheerest-amount-of-color)
 
-mEDA-01[ Exploratory Data Analysis](http://cat.mozzarella.website/mEDA-01),  [_$272_](http://www.ebay.com/itm/152370010036)
+mozz3da[ Exploratory Data Analysis](http://cat.mozzarella.website/mEDA-01),  [_$272_](http://www.ebay.com/itm/152370010036)
 
-mATC-01 [AnotherTabOfChrome](https://squareup.com/store/mozzarella/item/another-tab-of-chrome), [_$12_](https://squareup.com/store/mozzarella/item/another-tab-of-chrome)
+mozz1tc [Another Tab of Chrome](https://squareup.com/store/mozzarella/item/another-tab-of-chrome), [_$12_](https://squareup.com/store/mozzarella/item/another-tab-of-chrome)
 
-mozz402 [Surveillance Capitalism: a reader](), [_$5_](https://squareup.com/store/mozzarella/item/surveillance-capitlism)
+mozz402 [Surveillance Capitalism](), [_$5_](https://squareup.com/store/mozzarella/item/surveillance-capitlism)
 
 mozz403 [The Hero with One Face](), [_$10_](https://squareup.com/store/mozzarella/item/the-hero-with-one-face)
 
