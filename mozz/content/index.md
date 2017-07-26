@@ -18,17 +18,17 @@ mozz333 [The Sheerest Amount of Color](http://cat.mozzarella.website/mozz333),  
 
 mozz3da[ Exploratory Data Analysis](http://cat.mozzarella.website/mEDA-01),  [_**$272**_](http://www.ebay.com/itm/152370010036)
 
-mozz1tc [Another Tab of Chrome](https://squareup.com/store/mozzarella/item/another-tab-of-chrome), [_**$12**_](https://squareup.com/store/mozzarella/item/another-tab-of-chrome)
+mozz1tc Another Tab of Chrome, [_**$12**_](https://squareup.com/store/mozzarella/item/another-tab-of-chrome)
 
-mozz402 [Surveillance Capitalism](), [_**$5**_](https://squareup.com/store/mozzarella/item/surveillance-capitlism)
+mozz402 Surveillance Capitalism, [_**$5**_](https://squareup.com/store/mozzarella/item/surveillance-capitalism)
 
-mozz403 [The Hero with One Face](), [_**$10**_](https://squareup.com/store/mozzarella/item/the-hero-with-one-face)
+mozz403 The Hero with One Face, [_**$10**_](https://squareup.com/store/mozzarella/item/the-hero-with-one-face)
 
-mozz404 [How to Disappear in America](), [_**$5**_](https://squareup.com/store/mozzarella/item/how-to-disappear-in-america)
+mozz404 How to Disappear in America, [_**$5**_](https://squareup.com/store/mozzarella/item/how-to-disappear-in-america)
 
-mozz405 [Wiki-Header Sketchbook](), [_**$5.99**_](https://squareup.com/store/mozzarella/item/wiki-header-sketchbook)
+mozz405 Wiki-Header Sketchbook, [_**$5.99**_](https://squareup.com/store/mozzarella/item/wiki-header-sketchbook)
 
-mozz406 [Silk Road Img Scrapes](), [**_$40_**]()
+mozz406 Silk Road Img Scrapes, [**_$40_**]()
 
 ✎
 
