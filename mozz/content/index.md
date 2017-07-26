@@ -2,7 +2,7 @@
 						 
 ✎
 
-+ **We will be at [SWAPFEST](http://web.mit.edu/w1mx/www/swapfest/swapfest-2017.06.pdf) (_"the Flea at MIT"_) on August 20th, 2017**
+ + **We _might_ be at [SWAPFEST](http://web.mit.edu/w1mx/www/swapfest/swapfest-2017.06.pdf) (_"the Flea at MIT"_) on September 17th, 2017**
 
 ✎
 
