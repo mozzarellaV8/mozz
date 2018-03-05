@@ -1,7 +1,9 @@
 # ❏ mozzare[**lla**](http://pi.mozzarella.website).catalog ❏ 
-						 
 
+✎						 
 
+ - **_We will be at_ [NADA New York](https://www.newartdealers.org/fairs/2018/new-york) _as part of_ [Internet Yama-Ichi](http://yami-ichi.biz/) _hosted by_ [Rhizome/New Museum](http://rhizome.org/about/) March 8th - 11th, 2018**
+ 
 ✎
 
 mozz115 [The Ways of White Folks](http://cat.mozzarella.website/mozz115)
