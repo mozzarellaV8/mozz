@@ -1,62 +1,91 @@
 body {
-    background: #2f69c6;
-    font-family: "Menlo", arial, sans-serif;
-    font-size: 14px;
+    background: #FFF;
+    font-family: serif, sans-serif;
+    font-size: 18px;
     line-height: 1.2em;
     margin: 0;
     margin-right: 50px;
     padding-top: 0px;
     padding-left: 50px;
-    color: #FFF;
+    color: #000;
 }
 
 h1{
-    color: #FFF;
-    font-family: 'Arial Rounded MT Bold', sans-serif;
+    color: #000;
+    font-family: serif, sans-serif;
     font-size: 24px;
+    font-weight:bold;
+}
+
+h2{
+    color: #000;
+    font-family: serif, sans-serif;
+    font-size: 20px;
     font-weight:normal;
 }
 
 h4{
-    color: #FFF;
-    font-family: 'Menlo', sans-serif;
+    color: #000;
+    font-family: serif, sans-serif;
     font-size: 18px;
     font-weight:normal;
 }
 
+h6{
+    color: #000;
+    font-family: serif, sans-serif;
+    font-size: 18px;
+    font-weight:normal;
+    -webkit-margin-before: 2.33em;
+    -webkit-margin-after: 0.33em;
+}
+
+pre{
+    color:#000;
+    font-family: 'Times New Roman', serif;
+    font-size: 12px;
+    font-weight:normal;
+}
+
 blockquote{
-    color: #FFF;
-    font-family: Menlo, 'Arial Rounded MT Bold', sans-serif;
+    color: #000;
+    font-family: serif, sans-serif;
     font-size: 20px;
     font-weight:normal;
 }
 
 p {
- color: #FFF;
- font-family: Menlo, 'Arial Rounded MT Bold', sans-serif;   
- max-width: 800px;   
+ max-width: 1000px;
+ margin-right: 100px;   
 }
 
 a {
-    color: #ffff00;
+    color: #0000ff;
     text-decoration: none;
-    font-weight: normal;
+    font-weight: lighter;
 }
 
 a:hover {
-    color: red;
+    color: #F4D03F;
     text-decoration:underline;
 
 }
 
 a:active {
-    color: #000;
+    color: #D35400;
 }
 
 a:visited {
-    color: #92C5E4;
+    color: #5499C7;
 }
 
+code {
+    color: #CD2210;
+    font-family: 'Franklin Gothic', 'Futura', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: lighter;
+}
 
 img, video, audio, iframe {
     max-width: 100%;   
@@ -64,8 +93,9 @@ img, video, audio, iframe {
 
 #main_container {
     margin: 100px auto;
-    margin-left: 120px;
-    width: 800px;
+    margin-left: 100px;
+    margin-right: 100px
+    width: 1000px;
     max-width: 90%;
 }
 
