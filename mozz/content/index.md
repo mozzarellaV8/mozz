@@ -2,7 +2,7 @@
 
 ✎						 
 
- - **_We will be at_ [NADA New York](https://www.newartdealers.org/fairs/2018/new-york) _as part of_ [Internet Yama-Ichi](http://yami-ichi.biz/) _hosted by_ [Rhizome/New Museum](http://rhizome.org/about/) March 8th - 11th, 2018**
+ - **_We will be at_ [NADA New York](https://www.newartdealers.org/fairs/2018/new-york) _as part of_ [Internet Yama-Ichi](http://yami-ichi.biz/) _hosted by_ [Rhizome/New Museum](http://rhizome.org/about/) <u>March 8th - 11th, 2018</u>**
  
 ✎
 
@@ -40,6 +40,6 @@ mozz406 [Silk Road Img Scrapes](http://cat.mozzarella.website/mozz406), **_$40_*
 
 ✎
 
-mozz-ig	[instagram](http://instagram.com/mozzarella.website) is a gated community; moved to [Secure Scuttlebutt (SSB)](http://scuttlebutt.nz)
+mozz-ig	[Instagram](http://instagram.com/mozzarella.website) is a walled garden; how long can one shill for Facebook? We moved to [Secure Scuttlebutt](https://staltz.com/an-off-grid-social-network.html) [(SSB)](http://scuttlebutt.nz) for general social media purposes. Nothin' personal. Contact _editor@mozzarella.website_ to find which nodes/pubs we're connected to.
 
 mozz-git	[GitHub](http://github.com/mozzarellaV8)
