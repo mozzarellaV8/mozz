@@ -1,1 +1,1 @@
-# ** free ** [PDF](http://pi.mozzarella.website/SURVEILLANCECAPITALISM.pdf) version
+# [PDF](http://pi.mozzarella.website/SURVEILLANCECAPITALISM.pdf) version - _**free** while supplies last_
