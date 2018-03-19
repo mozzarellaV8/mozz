@@ -2,7 +2,7 @@
 
 ✎						 
 
- - **_We will be at_ [NADA New York](https://www.newartdealers.org/fairs/2018/new-york) _as part of_ [Internet Yama-Ichi](http://yami-ichi.biz/) _hosted by_ [Rhizome/New Museum](http://rhizome.org/about/) <u>March 8th - 11th, 2018</u>**
+ - **_We were at_ [NADA New York](https://www.newartdealers.org/fairs/2018/new-york) _as part of_ [Internet Yama-Ichi](http://yami-ichi.biz/) _hosted by_ [Rhizome/New Museum](http://rhizome.org/about/) on March 8th - 11th, 2018**
  
 ✎
 
@@ -20,7 +20,7 @@ mozz3da[ Exploratory Data Analysis](http://cat.mozzarella.website/mEDA-01),  [_*
 
 mozz1tc Another Tab of Chrome, [_**$12**_](https://squareup.com/store/mozzarella/item/another-tab-of-chrome)
 
-mozz402 [Surveillance Capitalism](http://cat.mozzarella.website/mozz402), [_**$5**_](https://squareup.com/store/mozzarella/item/surveillance-capitalism)
+mozz402 [Surveillance Capitalism](http://cat.mozzarella.website/mozz402), [_**$5**_](https://squareup.com/store/mozzarella/item/surveillance-capitalism),  [**pdf**](http://pi.mozzarella.website/SURVEILLANCECAPITALISM.pdf)
 
 mozz403 The Hero with One Face, [_**$10**_](https://squareup.com/store/mozzarella/item/the-hero-with-one-face)
 
