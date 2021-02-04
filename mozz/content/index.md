@@ -5,7 +5,7 @@
  - **[Silk Road Img Scrapes](http://cat.mozzarella.website/mozz406) _was added to the library collection of_ Rhizome/The New Museum.**
  - **_We were at_ [NADA New York](https://www.newartdealers.org/fairs/2018/new-york) _as part of_ [Internet Yama-Ichi](http://yami-ichi.biz/) _hosted by_ [Rhizome/New Museum](http://rhizome.org/about/) on March 8th - 11th, 2018**
 
-![](http://pi.mozzarella.website/assets/handymozz-2018.jpg)
+![](http://pi.mozzarella.website/assets/handymozz-2021.jpg)
  
 ✎
 
